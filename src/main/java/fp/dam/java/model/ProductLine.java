@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class ProductLine {
 
-	private String productLine;
+	private String productLine; 
 	private String textDescription;
 	
 	public ProductLine(String csvLine) {
